@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Benjamin Smithynunta, a computer science student at Oregon State University.
 
 <div align="center"> 
   <p>Visitor count</p>
