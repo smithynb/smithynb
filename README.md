@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm Benjamin Smithynunta, a computer science student at Oregon State University focusing on Web and App development.
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/smithynb/count.svg" alt="Visitor's Count" />
-</div>
+![](https://komarev.com/ghpvc/?username=smithynb&color=blue)
