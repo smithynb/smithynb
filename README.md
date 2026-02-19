@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Benjamin Smithynunta, a computer science student at Oregon State University. (i got an A- in algorithms and 100% OS maybe im kinda cracked at school)
-I like exploring new technologies too.
-Some projects I've built have been related to the rhythm game osu! or to solve pain points with video editing workflows.
+# Benjamin Smithynunta. 
+I like building tools that remove friction in daily workflows including video editing, games, and development. 
+I enjoy learning new technologies and perspectives.
+Projects I've built have been related to the rhythm game osu! or to solve pain points with video editing workflows.
 
 
 ![](https://komarev.com/ghpvc/?username=smithynb&color=blue)
