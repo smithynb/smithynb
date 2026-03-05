@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Benjamin Smithynunta. 
 I like building tools that remove friction in daily workflows including video editing, games, and development. 
 I enjoy learning new technologies and perspectives.
-Projects I've built have been related to the rhythm game osu! or to solve pain points with video editing workflows.
+Some projects I've built focus on my hobbies or solving pain points with video editing workflows.
 
 
 ![](https://komarev.com/ghpvc/?username=smithynb&color=blue)
