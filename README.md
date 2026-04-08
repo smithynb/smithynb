@@ -17,5 +17,6 @@ I like building tools that remove friction in daily workflows including video ed
 I enjoy learning new technologies and perspectives.
 Some projects I've built focus on my hobbies or solving pain points with video editing workflows.
 
+https://www.smithynunta.dev/
 
 ![](https://komarev.com/ghpvc/?username=smithynb&color=blue)
